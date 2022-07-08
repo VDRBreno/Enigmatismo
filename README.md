@@ -6,7 +6,7 @@
 
 Enigmatismo é um pequeno enigma feito em React e NodeJS com o objetivo de desafiar um grupo de amigos.
 
-### 🏆 Vencedora: [MrIsaa][mrsisaa]
+### 🏆 Vencedora: [MrsIsaa][mrsisaa]
 
 ## :rocket: Tecnologias
 
